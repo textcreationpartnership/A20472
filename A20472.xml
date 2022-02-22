@@ -1,0 +1,337 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A godly and learned sermon concerning the magistrates dutie and death preached at the court, and now published for the common good, by Francis Dyllingham bachelour in diuinitie. Magnum non est præesse, magnum est prodesse. It is no great thing to rule, it is a great thing to rule well. Magnum non est vivere, magnum est piè mori. It is no great thing to liue, it is a great thing to die well.</title>
+            <author>Dillingham, Francis, d. 1625.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1605</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20472</idno>
+            <idno type="STC">STC 6885</idno>
+            <idno type="STC">ESTC S114254</idno>
+            <idno type="EEBO-CITATION">99849480</idno>
+            <idno type="PROQUEST">99849480</idno>
+            <idno type="VID">14629</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20472)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 14629)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1349:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A godly and learned sermon concerning the magistrates dutie and death preached at the court, and now published for the common good, by Francis Dyllingham bachelour in diuinitie. Magnum non est præesse, magnum est prodesse. It is no great thing to rule, it is a great thing to rule well. Magnum non est vivere, magnum est piè mori. It is no great thing to liue, it is a great thing to die well.</title>
+                  <author>Dillingham, Francis, d. 1625.</author>
+               </titleStmt>
+               <extent>[6], 23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn Legat, printer to the Vniversitie of Cambridge,</publisher>
+                  <pubPlace>[Cambridge] :</pubPlace>
+                  <date>1605.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from STC.</note>
+                  <note>Imperfect; torn, with print missing on leaves B3 and B6.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:14629:1"/>
+            <pb facs="tcp:14629:1" rendition="simple:additions"/>
+            <p>
+               <hi>A</hi> GODLY AND LEARNED SERMON CON<g ref="char:EOLhyphen"/>CERNING THE MAGISTRATES dutie and death, preached at the Court, and <hi>now publiſhed for the common good, by</hi> Francis Dyllingham bachelour <hi>in divinitie.</hi>
+            </p>
+            <q>
+               <hi>Magnum non est praeſſe, magnum est prodeſſe.</hi>
+            </q>
+            <q>It is no great thing to rule, it is a great thing to rule well.</q>
+            <q>
+               <hi>Magnum non est vivere, magnum est piè mori.</hi>
+            </q>
+            <q>It is no great thing to liue, it is a great thing to die well.</q>
+            <figure>
+               <q>HINC LVCEM ET POCVLA SACRA</q>
+               <p>ALMA MATER CANTA<g ref="char:EOLunhyphen"/>BRIGIA</p>
+               <figDesc>printer's device of John Legat</figDesc>
+            </figure>
+            <p>PRINTED BY IOHN LEGAT, PRIN<g ref="char:EOLhyphen"/>ter to the Vniverſitie of Cambridge. 1605.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:14629:2"/>
+            <pb facs="tcp:14629:2"/>
+            <head>TO THE RIGHT worſhipfull, wiſe, and <hi>vertuous Ladyes, the</hi> Lady Anne Fleetwood, and <hi>Elizabeth Luke, grace</hi> and peace.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He dayes and times beeing euill (right worſhipfull &amp; reli<g ref="char:EOLhyphen"/>gious Ladyes) require preach<g ref="char:EOLhyphen"/>ing, they require alſo printing. Preaching and printing, ſo deſperate is the caſe of many, will not preuaile. A great and maine cauſe of this deluge and flood of iniquitie is the negligence of Magiſ<g ref="char:EOLhyphen"/>trates who will not adioyne the ſword to defend the word. The Lord in his rich mercie towardes vs hath ſent forth many worthie Mi<g ref="char:EOLhyphen"/>niſters, who preach in ſeaſon and out of ſeaſon, yet oathes abound, the Lords Sabboths are prophaned. And why ſo? becauſe theſe ſinnes
+<pb facs="tcp:14629:3"/> eſcape vnpuniſhed. <hi>Caput audaciae, &amp; max<g ref="char:EOLhyphen"/>ima illecebra peccandi eſt impunitatis ſpes:</hi> The hope of impunity is an exceeding bayte vnto ſinne. Wherefore I nothing doubt but that if Magiſtrates would faithfully exe<g ref="char:EOLhyphen"/>cute their office, we ſhould not haue ſuch bold and preſumptuous ſinners as ſwarme amongſt vs. Now that the Magiſtrate may execute his office according to Gods will, he muſt knowe the ſame: for which cauſe I thought good to pub<g ref="char:EOLhyphen"/>liſh this ſermon, that thoſe which will learne, may both knowe and practiſe. And as in this ſermon is ſet out the Magiſtrates duty, ſo like<g ref="char:EOLhyphen"/>wiſe in the ſame is ſet out the Magiſtrates death. The conſideration of which ſhould mooue all Officers to doe their duties. The Lord with<g ref="char:EOLhyphen"/>out all controuerſie will call them one day to an account. And what account can many Ma<g ref="char:EOLhyphen"/>giſters make? no doubt many can make an ac<g ref="char:EOLhyphen"/>count of their debts accruing by vngodly vſu<g ref="char:EOLhyphen"/>ry: Others may count their bribes. But how many can count and number the ſoules of men which haue reaped benefit by their gouer<g ref="char:EOLhyphen"/>ment! magiſtrates haue no greater thing then this, that they can puniſh ſinners: they haue no better thing then that they will. Which if they would doe, no doubt many ſinners might be conuerted and brought vnto God. Not to pro<g ref="char:EOLhyphen"/>ceede any further in this point, as I haue pub<g ref="char:EOLhyphen"/>liſhed
+<pb facs="tcp:14629:3"/> this ſermon which concerneth the Ma<g ref="char:EOLhyphen"/>giſtrates duty, and his death: ſo I haue dedi<g ref="char:EOLhyphen"/>cated the ſame to your Worſhippes, whoſe ver<g ref="char:EOLhyphen"/>tues ſhine like the ſtarres. If I ſhould ſpeake all things anſwerable to your vertues, I might peraduenture ſeeme to ſome to flatter: If I ſhould conceale ſome things I might bee thought of others enuious, as Hierome ſpea<g ref="char:EOLhyphen"/>keth in the like caſe. Wherefore to leaue this matter of co<g ref="char:cmbAbbrStroke">̄</g>mendatio<g ref="char:cmbAbbrStroke">̄</g>, I humbly deſire yee both to accept this my labour, as an argument of my duty and harty affection which I beare to each of you: the great fauours which I haue receaued at your hands, I confeſſe deſerue a greater worke: But you are wiſe to know that in great things there are not alwaies good things, but in good things there are alwaies great things. Truſting then to the goodnes of the ſubiect matter, which is Gods word, I pre<g ref="char:EOLhyphen"/>ſent this labour to your Worſhippes. The Lord of his infinite goodneſſe graunt that the good courſe which yee haue begun, yee may keepe faſt vnto the end. And in ſo doing, as he hath highly aduanced you in this world, ſo will he aduance you in the world to come.</p>
+            <closer>
+               <signed>Your worſhippes euer bounden, Francis Dillingham.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:14629:4"/>
+            <pb facs="tcp:14629:4"/>
+            <epigraph>
+               <bibl>
+                  <hi>Pſalme 82. v. 6, 7.</hi>
+               </bibl>
+               <q>
+                  <p>I haue ſaid ye are Gods, and ye are all children of the most high:</p>
+                  <p>But ye ſhall die as common men; and ye Prin<g ref="char:EOLhyphen"/>ces ſhall fall like others.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe words containe two parts: the firſt is an Exaltation; the ſe<g ref="char:EOLhyphen"/>cond is an Humiliati<g ref="char:EOLhyphen"/>on. The exaltation is in theſe words, <hi>I haue ſaid ye are Gods, &amp;c.</hi> In which two things are to be conſidered: firſt, a propoſition: ſecondly, the proofe of it. The propoſition is in theſe words, <hi>Ye are all Gods, &amp;c.</hi> The proofe taken a <hi>te<g ref="char:EOLhyphen"/>ſtimonio divino,</hi> from Gods teſtimonie, is in theſe words, <hi>I haue ſaid.</hi> Touching the Humiliatio<g ref="char:cmbAbbrStroke">̄</g>, two things are likewiſe to be conſidered: firſt, what this humiliation is, to wit, death: ſecondly the ma<g ref="char:cmbAbbrStroke">̄</g>ner of it, <hi>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke vnto common men;</hi> for ſo doth the Hebrew word ſignifie, as it is plaine and euident out of the 49 Pſal. v. 2.</p>
+            <pb n="2" facs="tcp:14629:5"/>
+            <p>Concerning the Humiliation, Death muſt needes be a great humiliation vnto Princes. For as <hi>Eccleſiaſticus</hi> ſaith, 41. cap. v. 1. <hi>O death, how bitter is the remembrance of thee to a man that liueth at reſt in his poſ<g ref="char:EOLhyphen"/>ſeſſions, vnto the man that hath nothing to vexe him, &amp; that hath proſperitie in all things, yea vnto him that is able to receiue meate.</hi> Therfore <hi>Adrian</hi> asking what death was, receiued this anſwer, namely, that it was <hi>pavor divitum,</hi> the terrour of rich men, and it ſeemeth indeede ſo to be by <hi>Adrian</hi> his owne ſpeach: for he beeing readie to die, vttered theſe wordes, <hi>Animula vagula, blandula, non vt ſoles dabis io<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>os:</hi> O my dar<g ref="char:EOLhyphen"/>ling, now thou ſhalt not ieſt and ſcoffe as thou waſt wont to doe. In death, as <hi>Iob</hi> ſaith,<note place="margin">chap. 3. v. 19.</note> there are ſmall and great: and the ſeruant is free from his maſter.</p>
+            <p>Hauing thus reſolued this text of holy Scripture, I am now to deliuer the do<g ref="char:EOLhyphen"/>ctrines that ariſe from the ſame. Before I take this thing in hand, this queſtion may be mooued, How Magiſtrates can be cal<g ref="char:EOLhyphen"/>led the children of the high God, ſeeing it may be truly averred that all of them doe not feare God, all of them are not regenerate and borne of the holy Ghoſt? To this queſtion this anſwer is to be ſu<g ref="char:EOLhyphen"/>ted,
+<pb n="3" facs="tcp:14629:5"/> namely that the children of God are ſo called in a double reſpect. Firſt, in re<g ref="char:EOLhyphen"/>ſpect of regeneration, 1. Ioh. 3.1. and ſo magiſtrates are not here called the ſonnes of the moſt high God. Secondly, in re<g ref="char:EOLhyphen"/>ſpect of honour and dutie: and ſo they are here called the ſonnes of the moſt High, becauſe God hath greatly aduan<g ref="char:EOLhyphen"/>ced them, and ſo by dutie they are bound to feare him. The word in the Hebrew phraſe will beare this conſtruction: <hi>The ſonnes of the high,</hi> that is, high. As pſal. 29.1. <hi>The children of Gods,</hi> that is, Gods. And Amos 9.7. <hi>The children of the Ae<g ref="char:EOLhyphen"/>thiopians,</hi> that is, the Aethiopians. So ſpea<g ref="char:EOLhyphen"/>keth <hi>Homer,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the children of the Grecians, that is, the Grecians.</p>
+            <p>This queſtion beeing thus aſſoiled, I proceed to the doctrines. Magiſtrates are called <hi>Gods,</hi> not that men ſhould ima<g ref="char:EOLhyphen"/>gine that <hi>omnis Deorum poteſtas eſt ad illos tranſlata, aut ſaltem cùm illis communicata,</hi>
+               <note place="margin">Tullic.</note> all the power of God is conferred, or at leaſt wiſe communicated vnto them. This was the pride of <hi>Alexander</hi> and <hi>Domiti<g ref="char:EOLhyphen"/>an,</hi> who would be called Gods. But they are ſo called to teach vs, firſt, that ſuch ſhould be choſen Magiſtrates as doe ex<g ref="char:EOLhyphen"/>cell others in godlines, like vnto gods a<g ref="char:EOLhyphen"/>mongſt
+<pb n="4" facs="tcp:14629:6"/> men. Euen as Gods attributes are in him <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in an excellencie; ſo ſhould vertue be in Magiſtrates in a kind of eminencie. A Magiſtrate muſt be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a perfect man with<g ref="char:EOLhyphen"/>out fault. Well ſaid the heathen man <hi>A<g ref="char:EOLhyphen"/>riſtotle</hi> in the 7. booke of his Ethic. chap. 1. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, vertue is not in God, but a more diuine thing. As Magiſtrates muſt not be onely libe<g ref="char:EOLhyphen"/>rall, but they muſt be alſo magnificall: ſo they muſt not content themſelues with ordinarie vertues, but they muſt haue ver<g ref="char:EOLhyphen"/>tue in an high degree; not that they can equalize Gods attributes: for <hi>Dei poteſtas est infinita, Regum praefinita: Dei poteſtas im<g ref="char:EOLhyphen"/>menſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gum dimenſa:</hi> Gods power is in<g ref="char:EOLhyphen"/>finite, the power of Magiſtrates prefinite; Gods power is immenſurable, the power of Princes may be meaſured.</p>
+            <p>If Magiſtrates did thus excell in vertue, this benefit would come thereby vnto ſubiects, namely, that they ſhould be ver<g ref="char:EOLhyphen"/>tuous alſo. Of <hi>Ioſua</hi> his time this is re<g ref="char:EOLhyphen"/>corded, Ioſu. 24.1. that Iſrael ſerued the Lord all the daies of Ioſua. And <hi>Iustine</hi> writeth that <hi>ante Philippum &amp; Alexan<g ref="char:EOLhyphen"/>drum in Macedonia tam clarorum virorum proventus non floruit;</hi> before <hi>Philip</hi> and <hi>A<g ref="char:EOLhyphen"/>lexander</hi>
+               <pb n="5" facs="tcp:14629:6"/> there was not ſuch a flooriſh of famous men. For ſuch commonly are ſubiects as their gouernours are. Actions are viſible words, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">10. Ethic.</note> wordes will not ſo ſoone be recei<g ref="char:EOLhyphen"/>ued as actions. Swearing, lying, couetous, and whoriſh gouernours make like peo<g ref="char:EOLhyphen"/>ple. And thus much of the firſt point.</p>
+            <p>Secondly, Magiſtrates are called <hi>Gods,</hi> to teach vs, that we ſhould obey them as in Gods ſtead: Rom. 13.2. <hi>He that reſiſteth the higher powers, reſisteth the ordinance of God.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, obe<g ref="char:EOLhyphen"/>dience is the mother of well doing: no<g ref="char:EOLhyphen"/>thing can be well done without obedi<g ref="char:EOLhyphen"/>ence. And therefore ſubiects ſhould not ſtriue to excell one another in riches, ho<g ref="char:EOLhyphen"/>nour, and preferment, but in obedience. What then may Magiſtrates conceiue of Papiſts, who hold this poſition, <hi>Bell. lib.</hi> 5. <hi>de bono Pont. cap.</hi> 7. that, <hi>licet ſpirituali prin<g ref="char:EOLhyphen"/>cipi imperare principibus, &amp; de eorum bonis temporalibus diſponere,</hi> it is lawfull for the Pope to command Princes and to diſpoſe of their temporalities. Vntill they recant and relinquiſh this poſition, how can Pa<g ref="char:EOLhyphen"/>piſts be good ſubiects? yet for a thouſand yeares, ſaith <hi>Langius</hi> out of <hi>Otho Friſing. non lego aliquem regno privatum,</hi> I doe not
+<pb n="6" facs="tcp:14629:7"/> read any depriued of his kingdome. The ſame is teſtified by <hi>Gotfridus</hi> alſo. Behold the antiquitie of Poperie: now touching the obedience of ſubiects: it muſt be firſt grounded vpon knowledge: ſecondly, it muſt be voluntary: thirdly, it muſt be con<g ref="char:EOLhyphen"/>ſtant and continuall. Touching know<g ref="char:EOLhyphen"/>ledge, obedience cannot be voluntarie and conſtant, except it be founded vpon knowledge: for <hi>voluntatis obiectum eſt bo<g ref="char:EOLhyphen"/>num cognitum,</hi> the obiect of the will is a knowne good. To effect this, a learned and godly Miniſterie muſt be placed in e<g ref="char:EOLhyphen"/>uery pariſh: for where the dumbe mini<g ref="char:EOLhyphen"/>ſterie reſideth, men are neither taught their dutie towards God, nor allegeance towards the Prince, nor loue towards one another. If it be obiected, that there are not learned and godly Miniſters enough: I anſwer with <hi>Gratian</hi> and <hi>Thomas Aqui<g ref="char:EOLhyphen"/>nus,</hi> that <hi>prae<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tat pa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>os habere dignos Mini<g ref="char:EOLhyphen"/>stros, quam plures inutiles:</hi> it is better to haue a few worthie Miniſters, then many that are vnprofitable. Secondly, obedi<g ref="char:EOLhyphen"/>ence muſt be voluntarie. This may be ef<g ref="char:EOLhyphen"/>fected by the Magiſtrates clemencie and mercie towardes his ſubiects: <hi>amariqui vult languide regnet,</hi> he that will be loued, muſt raigne remiſſely: yet as ſeueritie
+<pb n="7" facs="tcp:14629:7"/> muſt be mild, ſo clemency muſt not be diſſolute. <hi>Artaxerxes</hi> his ſpeach is worthy to be followed of magiſtrates, <hi>magis ho<g ref="char:EOLhyphen"/>norificum eſt opulentes facere, quàm opulen<g ref="char:EOLhyphen"/>tem fieri,</hi> it is more honorable to enrich then to be enriched. And <hi>Galba</hi> his practiſe is to be abhorred, who would make his citizens <hi>ſicciſſimas ſpongias,</hi> moſt dry ſponges. Thirdly, obedience muſt be conſtant and continuall; which will then come to paſſe, when it proceedeth of conſcience. The benefits that ſubiects receaue from their Gouernors are conti<g ref="char:EOLhyphen"/>nuall, therefore their obedience muſt be continuall. O that Papiſts and Athiſts would conſider of this! But as <hi>Herodian</hi> ſaith, <hi>tenax eſt memoria iniuriarum,</hi> the memory of man keepeth faſt an iniury, it eaſily forgetteth benefits.</p>
+            <p>Againe, Magiſtrates are called Gods, to teach them that they ſhould not feare the faces of men; as God himſelfe iud<g ref="char:EOLhyphen"/>geth without reſpect of perſons, ſo ſhould magiſtrates. This duty is commanded <hi>Io<g ref="char:EOLhyphen"/>ſua,</hi> in the firſt chap: <hi>Feare not</hi> (ſaith the Lord) <hi>be of a good courage, and I will bee with thee:</hi> There are two arguments to mooue magiſtrates to courage: one is a recept; the other is a promiſe. Ma<g ref="char:EOLhyphen"/>giſtrates
+<pb n="8" facs="tcp:14629:8"/> muſt be like vnto <hi>Appius,</hi> of whome <hi>Liuy</hi> reporteth this, that <hi>non minae plebis,</hi> the menaces of the peole could not put him from his mind. <hi>Iuſtum &amp; tenacem propoſitivirum, non ciuium ardor praua iu<g ref="char:EOLhyphen"/>bentium, non vultus inſtantis tyranni mente quatit ſolidâ;</hi> a righteous &amp; conſtant man is not driuen from his mind either by the fury of people, or by the countenance of a tyrant. A Magiſtrate muſt haue courage to reſiſt bribes. <hi>Phillip</hi> was wont to ſay, that <hi>Nulla ciuitas tam munita eſt, quin ſi aſi<g ref="char:EOLhyphen"/>nus auro onuſtus ingredi poſſit, expugnari queat,</hi> No city is ſo well fenſed, but if an aſſe laden with gold can enter in, it may be vanquiſhed. So it is to be feared that golden aſſes will enter into offices, except magiſtrates haue courage to reſiſt bribes. Buying and ſelling of offices is the ruine of church and common wealth.</p>
+            <p>Fourthly, Magiſtrates are called Gods, to teach them that they ſhould honor God, as God hath honored them by in<g ref="char:EOLhyphen"/>veſting them with his owne titles. Wher<g ref="char:EOLhyphen"/>fore they muſt remember that they be not the ſeruants of the fleſh, or of Sathan, or of the world. Magiſtracy is not <hi>immuni<g ref="char:EOLhyphen"/>tas,</hi> but <hi>munus,</hi> not an immunitie, but a duty: It is not <hi>vacatio,</hi> but <hi>vocatio;</hi> not a va<g ref="char:EOLhyphen"/>cation
+<pb n="9" facs="tcp:14629:8"/> but a vocatio<g ref="char:cmbAbbrStroke">̄</g>. To effect this, magiſ<g ref="char:EOLhyphen"/>trates muſt haue godly men about them. The Aegiptians will haue a king (ſaith one) to be moſt ſincere; therefore they place excellent men about him, that by the ſight of them, he himſelfe may be ex<g ref="char:EOLhyphen"/>cited to vertue.<note place="margin">Pſal. 101.7.</note> 
+               <hi>There ſhall no deceytfull per<g ref="char:EOLhyphen"/>ſon dwell in my houſe,</hi> ſaith the prophet Da<g ref="char:EOLhyphen"/>uid <hi>&amp; he that telleth lyes, ſhall not remaine in my ſight.</hi> O that magiſtrates would haue a care to reforme their families, as good <hi>Ioſua</hi> had, who ſaith, that <hi>he and his houſe will ſerue the Lord.</hi> But are not many ma<g ref="char:EOLhyphen"/>giſtrates men ſwearing ſwaggerers, and ſwaggering ſwearers? are they not pro<g ref="char:EOLhyphen"/>phane dicers, dauncers, and dronkards? Secondly, if the Magiſtrate will honor God aright, he muſt not ſuffer two religi<g ref="char:EOLhyphen"/>ons in a land. <hi>Salomon</hi> ſaith, that the king <hi>that ſitteth vpon his throne,</hi>
+               <note place="margin">20. Prou.</note> 
+               <hi>with his counte<g ref="char:EOLhyphen"/>nance diſperſeth all euill.</hi> The Angell of <hi>Pergamus</hi> is reprehended,<note place="margin">Reuel. 2.</note> becauſe he ſuf<g ref="char:EOLhyphen"/>fered the doctrine of the <hi>Nicolaitans.</hi> The good kings are noted in ſcripture, becauſe they tooke not away the high places; <hi>O rem miſeram! Dominum ferre non potuimus, ſeruo ſeruimus,</hi> O wofull caſe; we could not abide the maſter, now we ſerue his ſeruantes. <hi>Papae mortuo parebimus, quem
+<pb n="10" facs="tcp:14629:9"/> viuum ferre non potuimus?</hi> ſhall wee obey the Pope, beeing dead, ſeeing we could not endure him aliue?</p>
+            <p>Fiftly, magiſtrates are called <hi>gods,</hi> to teach them that they ſhould execute gods iudgments vpon ſuch as God will haue puniſhed. God will haue Blaſphemers to be puniſhed: ſo likewiſe ſhould the ma<g ref="char:EOLhyphen"/>giſtrate puniſh them. <hi>Doth not this land</hi> (as <hi>Ieremy</hi> ſaith) <hi>mourne for othes?</hi>
+               <note place="margin">23. 10.</note> 
+               <hi>is not ſwearing the language of many?</hi> what other tongue can many ſpeake? It is not onely a court<g ref="char:EOLhyphen"/>ly, but alſo a country ſinne. <hi>Ludouicus</hi> (as one reporteth) when he heard one ſweare, ſeered his lippes with an hot iron. If all ſwearers as they deſerue were thus handled, they would not ſo horribly a<g ref="char:EOLhyphen"/>buſe the name of the great god of heauen and earth. O worme thou that art but duſt and aſhes, how dareſt thou vſe the name of God without reuerence? Aſſure thy ſelfe God will take vengeance vpon thee without repentance. Againe God will haue Adulterers to be puniſhed: ſo like<g ref="char:EOLhyphen"/>wiſe ſhould Magiſtrates puniſh them. <hi>Parthi</hi> (ſaith <hi>Iuſtine) nulla delicta grauius puniunt quàm adulteria:</hi> the <hi>Parthians</hi> puniſh no ſinne more greeuouſly then adultery. How they are puniſhed with
+<pb n="11" facs="tcp:14629:9"/> vs I appeale to mens owne conſciences. The <hi>Locrians</hi> pull out the eyes of Adul<g ref="char:EOLhyphen"/>terers: the <hi>Arabians</hi> puniſh them with death. The deuill gaineth many ſoules by this ſinne: two at the leaſt euery time, beſides the baud. Againe, the Lord will haue Idolaters to be puniſhed Deuter. 13.9. So ſhould Magiſtrates puniſh them. and it ſeemeth to me that Magiſtrates by the conſideration of their owne eſtates ſhould puniſh this kind of men. Can a king abide one that would bee a fellow ruler with him? Can an husband ſuffer any one to be a fellow-husband with him? God is the king and husband of his people, and Idolaters robbe him of his honor. Therefore magiſtrates muſt haue an eſpeciall care to puniſh this kind of men. Laſtly, the Lord will haue proha<g ref="char:EOLhyphen"/>ners of his Sabboths to be puniſhed: ſo ſhould magiſtrates puniſh them. The three firſt commandements are negatiue, the fourth is affirmatiue; teaching vs, that to keepe the ſabboth, is a meanes where<g ref="char:EOLhyphen"/>by men may keepe the other three. The ſabboth day is the market day of mens ſoules; yet what careleſſe prouiſion men make for their ſoules, let the world iudge.</p>
+            <pb n="12" facs="tcp:14629:10"/>
+            <p>Sixtly, magiſtrates are called gods, not that they ſhould be ſo ſaluted, or that they ſhould vſurpe diuine authoritie. As for ex<g ref="char:EOLhyphen"/>ample we may not ſay to a iudge, this is my God. What then ſhall we conceaue of the blaſphemous Popes, of whome ſome write thus, <hi>Papa eſt vicarius Dei, ex<g ref="char:EOLhyphen"/>preſſiùs Deus,</hi> the Pope is Gods vicar, more expreſſely, God himſelfe. Againe, <hi>conſtat papam à nemine iudicari poſſe, quem conſtat á pio Principe appellari Deum,</hi> it is manifeſt that no man can iudge the Pope who verely was called of the godly Prince Conſtantine, God. Many ſuch blaſ<g ref="char:EOLhyphen"/>phemies could I recite, but I come to the vſurpatio<g ref="char:cmbAbbrStroke">̄</g> of Diuine authoritie. The Lord ſaith. 2. Corinth. 6.14 <hi>Bee not vnequally yooked with infidels:</hi> therfore to marry with infidels is vnlawfull, by Gods owne ver<g ref="char:EOLhyphen"/>dit: Yet (ſaith <hi>Bellarmine</hi>) the Pope may diſpenſe in this matter, is not this to v<g ref="char:EOLhyphen"/>ſurpe diuine authoritie? ſhould not the Pope keepe Gods lawes: Is he not a ſer<g ref="char:EOLhyphen"/>uant of the ſame? yet he may diſpenſe with them which euidently ſheweth that he vſurpeth diuine authoritie. Againe, the Lord ſaith, <hi>that which he hath ioyned toge<g ref="char:EOLhyphen"/>ther, let no man ſeparate,</hi> Math. 19.6. yet ſaith <hi>Bellarmine,</hi> ratified mariage may be
+<pb n="13" facs="tcp:14629:10"/> diſſolued by the Pope. To proceed; God ſaith, <hi>Honor thy father and thy mother:</hi> Yet ſaith <hi>(Bellarmine)</hi> it is lawfull for ſome to become monkes and Nuns without their Parents conſent. God ſaith, <hi>Drinke yee all of this:</hi> But the Pope ſaith, yee ſhall not drinke all of this. God ſaith. <hi>None ſhall come neere to any of the kindred of his fleſh:</hi> yet ſaith the papiſt, the Pope may diſ<g ref="char:EOLhyphen"/>penſe within the degrees forbidden of God himſelfe. Many ſuch contrarieties to Gods word might I recite, which plainly prooue that the pope vſurpeth diuine au<g ref="char:EOLhyphen"/>thoritie. Euery man ſhould be a doer of Gods lawe, not a iudge of the ſame: yet the Pope will iudge Gods lawe, and ſo ſheweth himſelfe a lawleſſe man. By which euery man may ſee that he is the man of whome <hi>Paul</hi> propheſyeth 2. Theſ. 2.8. One thing more I will adde, and ſo conclude this point. In the yeare of our Lord 1471. ſaith <hi>Wernerus,</hi> the Iubily was changed, in which the Pope gaue par<g ref="char:EOLhyphen"/>dons to men for their ſinnes; that where ſinne doth abound, there grace may a<g ref="char:EOLhyphen"/>bound. If this be not to vſurpe diuine au<g ref="char:EOLhyphen"/>thoritie, what is it to vſurpe the ſame? Thus much touching the propoſition, now I come to the proo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e.</p>
+            <pb n="14" facs="tcp:14629:11"/>
+            <p>
+               <hi>I haue ſaid:)</hi> From whence we learne this doctrine, namely that magiſtrates hould their authoritie from God: ſo ſaith wiſedome, Prou. 8.15. and 16. <hi>By me Kings raigne, and princes decree iuſtice: By me princes rule, and the nobles, and all the iudges of the earth.</hi> Therefore it is a proud challenge of <hi>Adrian</hi> to ſay: <hi>Ecce in poteſta<g ref="char:EOLhyphen"/>te noſtra eſt imperium, vt demus cui volumus,</hi> behould it is in our power to giue the Empyre to whome we will. As <hi>Adrian</hi> ſpake prowdly, ſo likewiſe did <hi>Hilde<g ref="char:EOLhyphen"/>brand,</hi> who vſed this ſpeach,
+<q>Petra dedit Petro, Petrus diadema Rodul<g ref="char:EOLhyphen"/>pho.</q>
+            </p>
+            <p>Chriſt gaue the crowne to Peter, and Peter to Rodulphe. If Popes challenge authoritie to tranſlate kingdomes, how can men thinke that Papiſts ſhould be good ſubiects, if they may take king<g ref="char:EOLhyphen"/>domes from Princes, and giue them to whome they will? Doe we not thinke that they may diſcharge ſubiects of their obe<g ref="char:EOLhyphen"/>dience vnto their lawefull magiſtrates? Conſider this point al yee that are Gouer<g ref="char:EOLhyphen"/>nors, conſider alſo that God ſaith, <hi>yee ſhall dye like men.</hi> God I ſay, who <hi>cannot lye; &amp; with whome there is no change, nor ſhadow of change. Nec verbum ab intentione diſſentit,
+<pb n="15" facs="tcp:14629:11"/> quia veritas eſt: nec factum à verbo, <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tus eſt:</hi> his word doth not diſagree <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his meaning, for he is truth: nor <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> actions from his word, for he is powe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Aſſure your ſelues all yee magiſtrates tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> yee ſhall dye; God ſaid, <hi>let there be light,</hi> &amp; there was light: God ſaith, <hi>Magiſtrates ſhall dye,</hi> and dye they ſhall. Thus I haue finiſhed the doctrines that ariſe out of the exaltation. Before I end the ſame, ſome man may mooue a queſtion, and ſay, Are not miniſters called Gods? Yes, as it ap<g ref="char:EOLhyphen"/>peareth Acts. 23.5. compared with Exod. 22.28. Yea, in the prophecy of <hi>Obadiah</hi> they are called ſauiours. Therefore I may ſay, <hi>O praeclarum miniſterium! quo id non glo<g ref="char:EOLhyphen"/>rioſius Magiſtratu?</hi> O excellent miniſtery more glorious then any magiſtracy. What then is the reaſon why miniſters are ſo co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>temned? The reaſons are many. Firſt, many miniſters themſelues diſhonor god, &amp; therefore it is iuſt with God to diſho<g ref="char:EOLhyphen"/>nor them. The Lord ſaith 1. Sam. 2.30. <hi>Them that honor me, I will honor them, &amp; they that deſpiſe me, ſhal be deſpiſed.</hi> Are not many miniſters diſſolute in their liues? ſo that for their ſakes others are contemned. <hi>Propter pauc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s ſpreti ſumus omnes,</hi> for a few we are all contemned. Secondly, Miniſters are
+<pb n="16" facs="tcp:14629:12"/> poore <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>abet infoelix paupertas durius, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>diculos homines facit;</hi> pouertie <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ng more wofull then this, that <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> men ridiculous. This to be a <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>auſe of the contempt of the Mini<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f God, all men ſee with their eyes. <gap reason="illegible" resp="#MURP" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>gh they are ſingularly learned, and <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e in them excellent gifts, yet ſo blinde <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e people, that they regard not theſe things. Riches and honour are highly re<g ref="char:EOLhyphen"/>ſpected, but learning and pietie haue no reuerence. Is it not wofull that Gods mi<g ref="char:EOLhyphen"/>niſters ſhould bee in want, when as hea<g ref="char:EOLhyphen"/>then men haue prouided for their Prieſts, in great abundance; as I might prooue out of hiſtories? Thirdly, flatterie is a great cauſe why Miniſters are contemned: who is ſo baſe as a flatterer? and moſt worthi<g ref="char:EOLhyphen"/>ly: for though a flatterer be in appearance a pearle, yet in biting he is a viper, and in killing ranke poiſon. How many miniſters now a daies ſing <hi>placentia,</hi> and ſowe pil<g ref="char:EOLhyphen"/>lowes vnder mens armes for their gaine? Fourthly, miniſters are contemned tho<g ref="char:EOLhyphen"/>rough ignorance: for men knowing not the excellency of that calling, how ſhould they reuerence it? <hi>Scientia neminem habet inimicum praeter ignorantem,</hi> ignorant men are the onely enemies to knowledge.
+<pb n="17" facs="tcp:14629:12"/> Therefore not to be ouer long, I ſay with Paul, 1. Cor. 4.1. <hi>Let a man ſo thinke of vs as of the miniſters of Christ, and diſpoſers of the ſecrets of God.</hi> Fiftly, miniſters are con<g ref="char:EOLhyphen"/>temned, becauſe they haue no authoritie in their hands: onely they haue the bare and naked word of God. If this were guarded with authoritie, it would make men ſubiect themſelues vnto Gods mi<g ref="char:EOLhyphen"/>niſterie. It ſeemeth ſtrange to me, that mi<g ref="char:EOLhyphen"/>niſters ſhould bee ſheepheards, and haue neither hooke nor dogge to keepe their ſheepe. But I leaue this to the wiſdome of thoſe that are in authoritie. Sixtly, mini<g ref="char:EOLhyphen"/>ſters are contemned, becauſe of ridicu<g ref="char:EOLhyphen"/>lous ſermons. It is now a daies an odious thing to be no preacher: and therefore many are ſo pulpit hungrie, that they will ſteppe into the pulpit, though very vna<g ref="char:EOLhyphen"/>ble to handle Gods word aright. Which thing hath not a little diſgraced miniſters. I wiſh theſe men would either amend, or els as they are pulpit hungrie, ſo they might bee fed with the pulpit. Many o<g ref="char:EOLhyphen"/>ther cauſes of contempt, as the plentie of Gods word, and the malice of Sathan, might I haue recited, and enlarged theſe that are named: but I haſten to the ſecond part of my text, which is the Humiliation
+<pb n="18" facs="tcp:14629:13"/> of magiſtrates. Out of which we learne that magiſtrates are in great daunger of pride, becauſe the Lord after he hath ex<g ref="char:EOLhyphen"/>alted them, immediatly ſetteth downe matter of humiliation. This might be prooued by many examples, as Nabu<g ref="char:EOLhyphen"/>chadnetzar, and Herod; but I paſſe by them. <hi>Philip,</hi> as one reporteth, would be put in minde of this, that he was a man, and therefore he would not come out of his chamber before one had cried thriſe, O Phillip, thou art but a man. By which example, euery man may ſee that magi<g ref="char:EOLhyphen"/>ſtrates are very prone to forget the<g ref="char:cmbAbbrStroke">̄</g>ſelues. A magiſtrate ſhould remember 3 things, which may abate his pride. Firſt, that he ruleth men: ſecondly, that he ruleth them by lawes: thirdly, that he ſhall not rule long. Theſe three things well digeſted, may abate the hautie ſpirit of many ma<g ref="char:EOLhyphen"/>giſtrates. Now Gouernours are in daun<g ref="char:EOLhyphen"/>ger of pride: firſt, in reſpect of their birth and parentage. They are nobly borne, but baſely proud, as if parentage was not their anceſtors good. Our ſtocke and our Aunceſtors are not our owne, but the things that we doe our ſelues, they are our owne. Why then are men puft vp with that is not their owne? Secondly, magi<g ref="char:EOLhyphen"/>ſtrates
+<pb n="19" facs="tcp:14629:13"/> are in daunger of pride in reſpect of education; for they are nicely brought vp without the precepts of humilitie, and ſo muſt needes be haughtie. For educati<g ref="char:EOLhyphen"/>on is a ſpeciall meanes to frame a mans manners: nature is much, ſo is education alſo. Thirdly, magiſtrates are in daunger of pride in reſpect of their wealth and their riches: <hi>Diuitiae ſuperbiores homines reddunt,</hi> riches make men proud. <hi>Charge rich men</hi> (ſaith S. Paul) <hi>that they be not high minded.</hi> Fourthly, magiſtrates are in daun<g ref="char:EOLhyphen"/>ger of pride in reſpect of flatterers. The magiſtrate hath vſually three ſorts of men about him: the flatterer, the ſlanderer, and the craftie foxe. The Philoſopher moo<g ref="char:EOLhyphen"/>ueth a queſtion, whether a man needeth friends more in aduerſitie, then in proſpe<g ref="char:EOLhyphen"/>ritie? He determineth that friendes are more neceſſarie in aduerſitie, then in pro<g ref="char:EOLhyphen"/>ſperitie: and it is a truth in ſome reſpects; yet in ſome reſpects friends are more ne<g ref="char:EOLhyphen"/>ceſſarie in proſperitie then in aduerſitie. For true friends often admoniſh men in proſperitie, that they be not haughtie; which ſeeing magiſtrates want, needes muſt they be in danger of pride. This do<g ref="char:EOLhyphen"/>ctrine teacheth the magiſtrate two duties: the one is praier, the other vigilancie.
+<pb n="20" facs="tcp:14629:14"/> Concerning praier, the magiſtrate muſt pray with Dauid, Pſal. 36.11. <hi>that the foote of pride come not againſt him.</hi> And how can that magiſtrate bee but proud, that is not much in praier? for praier teacheth him whence he hath receiued all things. No maruell then though magiſtrates are ſo haughtie, ſeeing they practiſe praier ſo little. Concerning vigilancie, the magi<g ref="char:EOLhyphen"/>ſtrate as he muſt pray againſt pride, ſo muſt he watch againſt this ſinne: for pride creepeth euen into good actions. It is like the Iuie which groweth vp with the tree, and in the ende killeth it: ſo pride grow<g ref="char:EOLhyphen"/>eth vp with good actions, and at the length deſtroieth them. And ſo I proceed to death, which is the magiſtrates humili<g ref="char:EOLhyphen"/>ation. <hi>Xerxes</hi> (as <hi>Herodotus</hi> reporteth) be<g ref="char:EOLhyphen"/>holding his armie, thought himſelfe hap<g ref="char:EOLhyphen"/>pie; but by and by he wept. Then <hi>Arta<g ref="char:EOLhyphen"/>banus</hi> asked him this queſtion: O king, why doeſt thou ſuch ſtraunge things? <hi>Xerxes</hi> anſwered, It pittieth mee to thinke of the eſtate of theſe men; for where ſhal any of the<g ref="char:cmbAbbrStroke">̄</g> be within this hundred yeares? Loe into what paſſions the conſideration of death bringeth kings! And needs muſt death be a great humiliation to magi<g ref="char:EOLhyphen"/>ſtrates, for they know that they ſhall not
+<pb n="21" facs="tcp:14629:14"/> rule in the life to come, as they doe in this life. <hi>Hecuba</hi> ſaith, It grieueth me to be a ſeruant amongſt the dead, ſeeing I was a Queene vpon earth. Muſt it not needes then grieue magiſtrates to thinke that they ſhall be no better then other men <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n death? yea, to thinke that they may be damned, howſoeuer they haue liued glo<g ref="char:EOLhyphen"/>riouſly in this world? Wherefore I de<g ref="char:EOLhyphen"/>ſire all magiſtrates to remember three things: firſt, whence they came, from the earth: ſecondly, whither they ſhall goe: to the earth: and before whome they ſhall giue an account: before the great God of heauen and earth. Let the magiſtrate imitate the mariner, who that he may guide his ſhip, ſitteth in the hin<g ref="char:EOLhyphen"/>der part thereof, and not in the former part: So ſhould the magiſtrate looke to the hinder part of his life. The godly man is like to the partridge whi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h is pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſecuted in her life, but being dead ſhee is brought to great mens tables. The wick<g ref="char:EOLhyphen"/>ed man is like vnto the hauke, who in her life time ſitteth vpon mens fiſts, but being dead, ſhe is caſt vpon the dunghill.</p>
+            <q>
+               <l>
+                  <hi>Omnia Caeſar erat, ſed gloria Caeſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ris <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſe</hi>
+               </l>
+               <l>
+                  <hi>Deſiit, &amp; tumulus vix erat o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> pe<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>m.</hi>
+               </l>
+            </q>
+            <q>
+               <l>—Caeſar was all in all, and now is <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t;</l>
+               <pb n="22" facs="tcp:14629:15"/>
+               <l>A tombe of 8. feete longe is all he hath got.</l>
+            </q>
+            <p>Now I will ſpeake one word of the manner of magiſtrates death, and ſo con<g ref="char:EOLhyphen"/>clude. <hi>They ſhall dye like ordinary men:</hi> firſt, in reſpect of the ſudden death. <hi>Rex Epi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<g ref="char:EOLhyphen"/>tarum tegulà percuſſus de equo decidit:</hi> the king of the Epirotians ſtricken with a tile fell from his horſe. <hi>Alphonſus</hi> king of Spayne in a iourney dyed vnder a tree. Many ſuch examples of ſudden death might I recken vp. Secondly, they ſhall die like ordinarie men in reſpect of mur<g ref="char:EOLhyphen"/>ther; for they may be murthered as well as common men.</p>
+            <q>
+               <l>
+                  <hi>Ad generum Cereris ſine caede &amp; ſanguine pauci</hi>
+               </l>
+               <l>
+                  <hi>Deſcendunt Reges, &amp; ſiccà morte tyranni.</hi>
+               </l>
+            </q>
+            <q>
+               <l>Concerning magiſtrates few of them to graue do goe,</l>
+               <l>Without great miſery and dreadfull woe.</l>
+            </q>
+            <p>Thirdly, they ſhall die like vnto ordi<g ref="char:EOLhyphen"/>nary men, in this reſpect, becauſe they may murder themſelue, as well as ordina<g ref="char:EOLhyphen"/>ry men doe. Hiſtories abound with ex<g ref="char:EOLhyphen"/>amples of great men who haue offered violence vnto themſelues. Laſtly, they ſhall dye like vnto ordinarie men, in re<g ref="char:EOLhyphen"/>ſpect
+<pb n="23" facs="tcp:14629:15"/> of diſeaſes; for they are ſubiect to the ſame diſeaſes that common men are. Yea they are alſo ſubiect to the ſame ter<g ref="char:EOLhyphen"/>rours of conſcience. All which doe de<g ref="char:EOLhyphen"/>clare the truth of this text of Scripture. The Lord of his infinite goodnes giue magiſtrates grace to liue the life of the righteous, that they may dye the death of the righteous. Amen.</p>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</q>
+         </div>
+      </body>
+   </text>
+</TEI>
